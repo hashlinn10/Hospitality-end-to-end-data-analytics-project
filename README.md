@@ -37,4 +37,19 @@ Developed dashboards with key metrics such as:
 ## Dashboard
 ![Screenshot (27)](https://github.com/user-attachments/assets/a5109645-daaa-4116-b000-de6704abf2e2)
 
+## project insights
+- Identify cities or properties with declining revenue trends.
+- Highlight top-performing cities or properties contributing the most to revenue.
+- Compare occupancy rates for weekdays vs. weekends.
+- Analyze seasonal patterns impacting occupancy.
+- Assess properties with high or low RevPAR, ADR, and Occupancy %.
+
+## Final Conclusion
+- The Hospitality Data Analytics project for AtliQ Grands provided actionable insights to address declining market share and revenue.
+- By analyzing historical data, we identified key factors influencing performance, including occupancy trends, revenue per available room (RevPAR), and cancellation patterns.
+- The project successfully highlighted areas for improvement and opportunities for growth, enabling data-driven decision-making for AtliQ Grands' management team.
+- The dashboard and insights serve as a foundation for strategic planning, helping regain market share in the competitive hospitality sector.
+
+
+
 
