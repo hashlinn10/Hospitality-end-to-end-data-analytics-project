@@ -34,5 +34,7 @@ Developed dashboards with key metrics such as:
 - Design interactive Power BI dashboards to present insights.
 - Include visualizations for revenue trends, occupancy by city, category-wise revenue, and booking platform performance.
 
--Dashboard interaction <a href = "https://github.com/hashlinn10/Hospitality-end-to-end-data-analytics-project/blob/main/Screenshot%20(27).png">View Dashboard </a>
+## Dashboard
+![Screenshot (27)](https://github.com/user-attachments/assets/a5109645-daaa-4116-b000-de6704abf2e2)
+
 
