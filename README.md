@@ -13,25 +13,25 @@ This project focuses on an end-to-end data analytics solution for AtliQ Grands, 
 
 ## Key Performance Indicators (KPI)
 Developed dashboards with key metrics such as:
-o	Occupancy Rate
-o	Average Daily Rate (ADR)
-o	Revenue per Available Room (RevPAR)
-o	Realization %
-o	Average Rating
+- Occupancy Rate
+- Average Daily Rate (ADR)
+-	Revenue per Available Room (RevPAR)
+- Realization %
+- Average Rating
 
 ## Process 
 
-•	Define project objectives: Regain market share and revenue.
-•	Identify key business challenges: Competitor strategies and ineffective decision-making.
-•	Gather historical data from AtliQ Grands' systems.
-•	Include data on revenue, occupancy rates, booking channels, customer feedback, etc.
-•	Handle missing or inconsistent data.
-•	Standardize formats (e.g., dates, numerical values).
-•	Ensure data accuracy and integrity.
-•	Perform exploratory data analysis (EDA) to uncover trends, patterns, and anomalies.
-•	Use descriptive and diagnostic analytics to understand past performance.
-•	Define and calculate KPIs like Revenue per Available Room (RevPAR), Average Daily Rate (ADR), Occupancy %, etc.
-•	Design interactive Power BI dashboards to present insights.
-•	Include visualizations for revenue trends, occupancy by city, category-wise revenue, and booking platform performance.
+- Define project objectives: Regain market share and revenue.
+- Identify key business challenges: Competitor strategies and ineffective decision-making.
+- Gather historical data from AtliQ Grands' systems.
+- Include data on revenue, occupancy rates, booking channels, customer feedback, etc.
+- Handle missing or inconsistent data.
+- Standardize formats (e.g., dates, numerical values).
+-	Ensure data accuracy and integrity.
+-	Perform exploratory data analysis (EDA) to uncover trends, patterns, and anomalies.
+- Use descriptive and diagnostic analytics to understand past performance.
+- Define and calculate KPIs like Revenue per Available Room (RevPAR), Average Daily Rate (ADR), Occupancy %, etc.
+- Design interactive Power BI dashboards to present insights.
+- Include visualizations for revenue trends, occupancy by city, category-wise revenue, and booking platform performance.
 
 
